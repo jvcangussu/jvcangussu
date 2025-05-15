@@ -31,6 +31,8 @@
 
 ###
 
+<a href="mailto:jvcangussubo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:4px"></a>
+
 <h2 align="left">📊 Github Stats:</h3>
 
 ###
