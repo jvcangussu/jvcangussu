@@ -4,6 +4,14 @@
 
 ###
 
+<h2 align="left">📌 About</h2>
+
+###
+
+<h2 align="left">🧠 Knowledge</h2>
+
+###
+
 <h2 align="left">💻 My Tech Stacks:</h2>
 
 <div align="center">
@@ -17,8 +25,15 @@
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="vertical-align:top; margin:4px">
 </div>
 
+###
+
+<h2 align="left">📬 Contact</h2>
+
+###
+
 <h2 align="left">📊 Github Stats:</h3>
 
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvcangussu&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvcangussu&layout=compact&theme=algolia)
