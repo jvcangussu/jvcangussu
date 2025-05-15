@@ -8,7 +8,7 @@
 
 ###
 
-I'm a front-end developer passionate about technology, with experience in building web applications using technologies like Next.js and React, as well as mobile development with Kotlin, React Native, and other tools. I'm currently pursuing a degree in Computer Science at the State University of Southwest Bahia (UESB), where I’ve gained a solid foundation in core computer science concepts that I apply in real-world development projects.
+I'm a front-end developer passionate about technology, with experience in building web applications using technologies like Next.js and React, as well as mobile development with Kotlin, React Native, and other tools. I'm currently pursuing a degree in Computer Science at the Universidade Estadual do Sudoeste da Bahia (UESB), where I’ve gained a solid foundation in core computer science concepts that I apply in real-world development projects.
 
 <h2 align="left">🧠 Knowledge</h2>
 
