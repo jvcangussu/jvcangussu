@@ -10,11 +10,23 @@
 
 I'm a front-end developer passionate about technology, with experience in building web applications using technologies like Next.js and React, as well as mobile development with Kotlin, React Native, and other tools. I'm currently pursuing a degree in Computer Science at the Universidade Estadual do Sudoeste da Bahia (UESB), where I’ve gained a solid foundation in core computer science concepts that I apply in real-world development projects.
 
+###
+
 <h2 align="left">🧠 Knowledge</h2>
 
 ###
 
+My main focus is front-end development, especially using modern frameworks like React and Next.js to build dynamic, responsive, and scalable web applications. I have strong experience working with JavaScript, TypeScript, and JSX, and I apply best practices in UI/UX design to deliver intuitive user interfaces.
+I also have hands-on experience with mobile development, using React Native and Kotlin to create cross-platform applications. This includes working with CRUD operations, RESTful APIs, and integrating features such as geolocation and real-time maps.
+My academic background in Computer Science at UESB has given me a solid understanding of software architecture, data modeling, and clean code principles. I'm comfortable working with relational databases like MySQL and PostgreSQL, and I'm skilled in integrating them into full-stack applications.
+I’m also experienced in agile methodologies like Scrum and Kanban, version control using Git and GitHub, and applying tools like Figma for interface prototyping.
+I enjoy solving real-world problems through technology, collaborating with teams, and delivering high-quality solutions that combine usability, performance, and maintainability.
+
+###
+
 <h2 align="left">💻 My Tech Stacks:</h2>
+
+###
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
